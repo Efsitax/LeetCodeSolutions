@@ -1,5 +1,3 @@
-package Easy;
-
 /**
  * 9. Palindrome Number
  *

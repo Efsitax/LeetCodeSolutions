@@ -1,5 +1,3 @@
-package Easy;
-
 /**
  * 20. Valid Parentheses
  *
